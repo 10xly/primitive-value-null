@@ -1,0 +1,31 @@
+{
+  "name": "primitive-value-null",
+  "version": "1.0.0",
+  "description": "the value null",
+  "keywords": [
+    "null",
+    "undefined",
+    "nil",
+    "nullish"
+  ],
+  "homepage": "https://github.com/10xly/primitive-value-null#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/primitive-value-null/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/primitive-value-null.git"
+  },
+  "license": "MIT",
+  "author": "Tj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "construct-new-second": "1.0.1",
+    "date": "2.0.6",
+    "primitive-value-nan": "1.0.0"
+  }
+}
